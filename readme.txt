@@ -1,0 +1,2 @@
+# About This Repo
+I'm going to be keeping all of my machine learning projects here from now on - whether they be trying to learn new topics (gan) or trying to apply topics I've already learned (catching fraud)! Hopefully someone can find this helpful!
